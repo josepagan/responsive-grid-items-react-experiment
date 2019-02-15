@@ -31,3 +31,19 @@
     transform: rotate(360deg);
   }
 }
+.active {
+  color: red;
+  width:300px;
+  
+}
+
+.inactive {
+  color: blue;
+}
+
+.card {
+  background-color: orange;
+  height:150px;
+  border-style: solid;
+
+}
